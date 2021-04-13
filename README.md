@@ -6,7 +6,7 @@ Links:
 * [Bojagi](https://bojagi.io/) Making tools for designers to review implemented components
 * Twitter: [@simonmales](https://twitter.com/simonmales)
 * [LinkedIn](https://www.linkedin.com/in/simonmales/)
-* Bitcoin Fax (pet project that died in 2018)
+* [Bitcoin Fax](https://bitconfax.net) (pet project that died in 2018)
 
 <!--
 **sime/sime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
