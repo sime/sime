@@ -1,6 +1,6 @@
 ### Hello, from Simon :)
 
-Based in Berlin. Lover of Webapps and Serverless.
+Based in Prague. Lover of Webapps and Serverless.
 
 Links:
 * [Bojagi](https://bojagi.io/) Making tools for designers to review implemented components
